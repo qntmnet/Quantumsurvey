@@ -27,7 +27,7 @@ For every new feature or bug fix, create a feature branch off of develop. Use a 
 # Example workflow for creating a new feature branch
 git checkout dev
 git pull origin dev
-git checkout -b feature/new-feature
+git checkout -b dev/your_name
 </pre>
 
 ## <a name="Developer"></a>Development Workflow
