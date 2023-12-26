@@ -59,7 +59,11 @@ git push -u origin dev/your_name
 **2. Code Review:** Your code will be reviewed by other team members. Make necessary adjustments if required.  
 **3. Merge to Develop:** Once the PR is approved, merge your changes into the develop branch.  
 **4. Release Preparation:**  When a set of features is ready for release, create a PR from develop to main and follow the release process.  
-
+#### Note : -
+After completion of above mentioned steps, in case you want to continue your work then you are requested to continue your work in dev branch in your local system. 
+<pre>
+git checkout dev
+</pre>
 ## <a name="Review"></a>Code Review Guidelines
 
 * Ensure your code follows the project's coding standards.   
