@@ -1,9 +1,5 @@
 # Quantumsurvey
 
-# Overview
-# Quantumsurvey
-
-# Overview
 
 Welcome to the Quantumsurvey repository! This README provides essential information for developers working on this project. Please follow the guidelines outlined below to ensure a smooth development process.
 
